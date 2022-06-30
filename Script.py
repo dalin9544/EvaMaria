@@ -15,8 +15,11 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+- This is an open source project. 
+<b>╔══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╗
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/MWM_Films><b>🔰 Main Group 🔰</b></a>
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/MWMFilms><b>🧲 Main Channel🧲</b></a>
+╚══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╝</b>
 
 <b>DEVS:</b>
 - <a href=https://t.me/NJaNu_yir>𝙰𝙱𝙷𝙸</a>"""
